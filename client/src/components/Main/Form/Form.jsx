@@ -10,7 +10,7 @@ const Form = () => {
         <Grid container spacing={2} >
             <Grid item xs={12}>
                 <Typography align="center" variant="subtitle2" gutterBottom>
-                    {/* ... */}
+                    ...
                 </Typography>
             </Grid>
             <Grid item xs={6}>
