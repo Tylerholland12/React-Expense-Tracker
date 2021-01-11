@@ -27,7 +27,7 @@ export const categoriesExpense = [
   { type: 'Other', amount: 0, color: expenseColors[10] },
 ];
 
-export const resetCategories = () => {
+export const categoriesReset = () => {
   categoriesIncome.forEach((c) => c.amount = 0);
   categoriesExpense.forEach((c) => c.amount = 0);
 };
