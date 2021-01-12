@@ -11,7 +11,7 @@ A money tracking application that allows a person to have full control of how th
 </p>
 <br>
 
-![alt text](https://github.com/Tylerholland12/Trackit/blob/main/trackit.png?raw=true)
+![alt text](https://github.com/Tylerholland12/React-Expense-Tracker/blob/main/trackit.png?raw=true)
 
 ## Dependencies
 
